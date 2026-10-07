@@ -1,16 +1,64 @@
-# React + Vite
+Movie Explore:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Description:
 
-Currently, two official plugins are available:
+Movie Explore is a web-based application that allows users to explore movies and view useful information about them. The project provides a simple and user-friendly interface for discovering movies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Objectives
 
-## React Compiler
+- To help users explore movies easily.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- To display movie information in an attractive way.
 
-## Expanding the ESLint configuration
+- To provide a simple and user-friendly interface.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- To make movie discovery faster and easier.
+
+Technologies Used
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- Movie API
+
+- GitHub
+
+Features:
+
+- Explore movies
+
+- Search for movies
+
+- View movie ratings
+
+- View movie details
+
+- Display movie posters
+
+- User-friendly interface
+
+- Responsive design
+
+Output:
+
+The Movie Explore application provides an attractive interface where users can search and explore different movies and view their details.
+
+Future Enhancements
+
+- User login and registration
+
+- Add movies to favorites
+
+- Watchlist feature
+
+- Genre-based filtering
+
+- Movie trailers
+
+Author:
+
+R.Geetha Madhuri
+
